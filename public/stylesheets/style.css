@@ -1,0 +1,49 @@
+body{
+    overflow: scroll;
+}
+
+.headd{
+    margin-bottom: 10px;
+    font-weight: 800;
+    font-size: 30px;
+    margin-left: 20px;
+}
+input{
+    border-radius: 12px;
+  
+}
+.kaushal{
+float: right;
+color: white;
+background-color: tomato;
+padding: 10px;
+border-radius: 12px;
+font-size: 17px;
+font-weight: 400;
+height: 50px;
+
+}
+.postcontainer{
+    justify-content: space-between;
+}
+
+body::-webkit-scrollbar{
+    display: none;
+}
+.like{
+    margin-top: 4px;
+}
+.kaa{
+    display: flex;
+    gap: 20px;
+    float: right;
+}
+.upload{
+    margin-top: 13px;
+    background-color: blueviolet;
+    padding: 8px;
+    border-radius: 12px;
+    color: black;
+    font-size: 20px;
+
+}
